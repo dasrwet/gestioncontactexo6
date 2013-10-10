@@ -1,0 +1,42 @@
+
+body {
+  background-color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 15px;
+}
+
+h1, p {
+  color: green;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#sample_container_id {
+  width: auto;
+  height: auto;
+  
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+#sample_text_id {
+  font-size: 24pt;
+  text-align: center;
+  margin-top: 140px;
+}
+table {
+  font-size: 10pt;
+  font-family: 'verdana', sans-serif;
+  text-align: center;
+  padding: 14px 14px 14px 14px;
+}
+
+table th{
+  background-image: url(image/title.png);
+  border: 0;
+}
