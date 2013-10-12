@@ -32,11 +32,38 @@ h1, p {
 table {
   font-size: 10pt;
   font-family: 'verdana', sans-serif;
-  text-align: center;
+  text-align: justify;
   padding: 14px 14px 14px 14px;
+  align:center;
+  width:750px;
+  background: white;
 }
 
 table th{
   background-image: url(image/title.png);
   border: 0;
+}
+
+table td{
+padding: 2px 5px 2px 5px;
+}
+fieldset{
+  width:800px;
+  border-radius:25px;
+  background-image: url(image/bg.png);
+  
+}
+fieldset legend{
+  background-image: url(image/title1.png);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: italic;
+  width:350px;
+ padding: 5px 14px 15px 14px;
+ height: 10px
+}
+address {
+  background: white;
 }
