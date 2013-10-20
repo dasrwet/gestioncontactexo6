@@ -1,5 +1,5 @@
-part of gestioncontactexo6;
 
+part of gestioncontactexo6;
 //var contacts = new List();
 class Contact extends ConceptEntity<Contact>{
   var cles, nom, prenom, phone, email,adresse;

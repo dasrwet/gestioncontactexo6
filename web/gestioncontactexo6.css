@@ -14,6 +14,11 @@ h1, p {
   font-size: 14px;
   font-weight: bold;
   font-style: italic;
+  width:100%;
+  padding: 4px 4px 4px 4px;
+  background:#CECECE;
+  border-bottom: 1px solid #ccc;
+  
 }
 
 #sample_container_id {
@@ -24,6 +29,15 @@ h1, p {
   background-color: #fff;
 }
 
+#sample_container_id2 {
+  width: auto;
+  height: auto;
+  
+  border: 1px solid #ccc;
+}
+.autre {
+  background: #f9f9f9;
+}
 #sample_text_id {
   font-size: 24pt;
   text-align: center;
@@ -34,9 +48,9 @@ table {
   font-family: 'verdana', sans-serif;
   text-align: justify;
   padding: 14px 14px 14px 14px;
-  align:center;
-  width:750px;
+  width:800px;
   background: white;
+  border:0;
 }
 
 table th{
@@ -46,9 +60,10 @@ table th{
 
 table td{
 padding: 2px 5px 2px 5px;
+border:0;
 }
 fieldset{
-  width:800px;
+  width:900px;
   border-radius:25px;
   background-image: url(image/bg.png);
   
