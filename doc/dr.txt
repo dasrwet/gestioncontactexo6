@@ -1,0 +1,24 @@
+ex06
+
+7/10
+
+(-1)
+README.md: nom du cours? votre nom?
+
+Contacts.dart 
+->
+contacts.dart
+
+
+query
+->
+querySelector
+
+(-1)
+Valider les nouvelles données. 
+
+(-1)
+Utiliser un stockage local pour enregistrer les contacts.
+
+
+
